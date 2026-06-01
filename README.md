@@ -55,13 +55,7 @@ or, if the driver is not installed:
 - In the Property dropdown menu, choose Hardware IDs
 ### Step 5: Check the Hardware ID
 
-You should see something similar to:
-
-USB\VID_350B&PID_9101
-
-or
-
-USB\VID_350B&PID_9101&REV_0000
+![Hardware ID Example](hardware_id.png)
 
 ## Known Issues
 
