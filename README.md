@@ -20,6 +20,16 @@ Use this software at your own risk. I provide no guarantees regarding compatibil
 4. Reconnect the adapter if necessary.
 5. Restart Windows if the device is not detected immediately.
 
+#### Alternative Installation
+
+1. Open Device Manager
+2. Right-click the adapter
+3. Update Driver
+4. Browse my computer for drivers
+5. Select this folder
+6. Enable "Include subfolders"
+7. Continue the installation
+
 ## Notes
 
 This driver was tested with a generic USB Wi-Fi adapter using the Hardware ID:
