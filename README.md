@@ -1,4 +1,4 @@
-## Adaptador 802.11n Wi-Fi (Generic) [zt9101]
+# Adaptador 802.11n Wi-Fi (Generic) [zt9101]
 # Disclaimer
 I am not the author, developer, or copyright holder of this driver.
 
@@ -8,12 +8,12 @@ If you are the original author, publisher, or copyright holder and would like th
 
 Use this software at your own risk. I provide no guarantees regarding compatibility, stability, security, or performance.
 
-# Files
+## Files
 zt9101d_drv.inf
 
 zt9101d_drv.sys
 
 zt9101d_drv.cat
 
-# Notes
+## Notes
 This driver was kept as a backup because newer drivers provided through Windows Update may not work correctly on some systems.
