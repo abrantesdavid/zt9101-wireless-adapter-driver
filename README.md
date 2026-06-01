@@ -8,6 +8,8 @@ If you are the original author, publisher, or copyright holder and would like th
 
 Use this software at your own risk. I provide no guarantees regarding compatibility, stability, security, or performance.
 
+`This driver was kept as a backup because newer drivers provided through Windows Update may not work correctly on some systems.`
+
 ## Installation
 1. Download the files in `releases`.
 2. Right-click `zt9101d_drv.inf`.
@@ -23,23 +25,28 @@ zt9101d_drv.sys
 zt9101d_drv.cat
 
 ## Notes
-This driver was kept as a backup because newer drivers provided through Windows Update may not work correctly on some systems.
+
 
 ## Hardware ID
-- This driver is known to work with the following hardware ID:
+
+This driver is known to work with devices reporting the following Hardware ID:
 
 USB\VID_350B&PID_9101
 
-- Full device ID:
+## Tested Device
 
-USB\VID_350B&PID_9101&REV_0000
+- Model: LV-UW06
+- Type: USB Wireless Adapter
+- Standard: IEEE 802.11n
+- Frequency: 2.4 GHz
 
 ## Notes
-This driver was tested on Windows 11 with a generic USB Wi-Fi adapter sold as:
-- LV-UW06
-- 802.11n Wireless USB Adapter
-- 950 Mbps Wireless Adapter
-Generic adapters may use different chipsets under the same product name. Verify your Hardware ID before installing.
+
+This driver was tested with a generic USB Wi-Fi adapter using the Hardware ID:
+
+USB\VID_350B&PID_9101
+
+Many generic 802.11n adapters are sold under the same model name but use different chipsets. Verify your Hardware ID before installing this driver.
 
 
 
