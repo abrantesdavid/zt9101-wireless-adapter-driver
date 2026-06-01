@@ -1,4 +1,4 @@
-# Adaptador 802.11n Wi-Fi (Generic) [zt9101]
+# ZT9101 802.11n Wireless USB Adapter Driver
 # Disclaimer
 I am not the author, developer, or copyright holder of this driver.
 
