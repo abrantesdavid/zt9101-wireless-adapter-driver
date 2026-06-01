@@ -38,7 +38,7 @@ USB\VID_350B&PID_9101&REV_0000
 This driver was tested on Windows 11 with a generic USB Wi-Fi adapter sold as:
 - LV-UW06
 - 802.11n Wireless USB Adapter
-- 650 Mbps Wireless Adapter
+- 950 Mbps Wireless Adapter
 Generic adapters may use different chipsets under the same product name. Verify your Hardware ID before installing.
 
 
