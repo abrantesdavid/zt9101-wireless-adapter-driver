@@ -8,6 +8,13 @@ If you are the original author, publisher, or copyright holder and would like th
 
 Use this software at your own risk. I provide no guarantees regarding compatibility, stability, security, or performance.
 
+## Installation
+1. Download the files.
+2. Right-click `zt9101d_drv.inf`.
+3. Select **Install**.
+4. Reconnect the adapter if necessary.
+5. Restart Windows if the device is not detected immediately.
+
 ## Files
 zt9101d_drv.inf
 
@@ -17,3 +24,25 @@ zt9101d_drv.cat
 
 ## Notes
 This driver was kept as a backup because newer drivers provided through Windows Update may not work correctly on some systems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Keywords
+ZT9101, 802.11n, Wireless USB Adapter, Wi-Fi Driver, Windows 10, Windows 11, Generic Wi-Fi Adapter
