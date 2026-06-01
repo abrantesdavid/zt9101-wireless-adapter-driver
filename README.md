@@ -1,4 +1,8 @@
 # ZT9101 802.11n Wireless USB Adapter Driver
+> Supported Hardware ID:
+> USB\VID_350B&PID_9101&REV_0000
+> USB\VID_350B&PID_9101
+> 
 # Disclaimer
 I am not the author, developer, or copyright holder of this driver.
 
@@ -74,6 +78,16 @@ USB\VID_350B&PID_9101
 or
 
 USB\VID_350B&PID_9101&REV_0000
+
+## Known Issues
+
+Some users may experience:
+
+- Driver replacement through Windows Update
+- Device not being recognized after major Windows updates
+- System instability when unplugging the adapter while in use
+
+If Windows installs a different driver automatically, reinstall `zt9101d_drv.inf`.
 
 
 
