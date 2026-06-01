@@ -24,14 +24,6 @@ zt9101d_drv.sys
 
 zt9101d_drv.cat
 
-## Notes
-
-
-## Hardware ID
-
-This driver is known to work with devices reporting the following Hardware ID:
-
-USB\VID_350B&PID_9101
 
 ## Tested Device
 
@@ -43,6 +35,8 @@ USB\VID_350B&PID_9101
 ## Notes
 
 This driver was tested with a generic USB Wi-Fi adapter using the Hardware ID:
+
+USB\VID_350B&PID_9101&REV_0000
 
 USB\VID_350B&PID_9101
 
